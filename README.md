@@ -11,25 +11,24 @@ Here are some ideas to get you started: -->
 
  <br/>
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me: Founder of Indeed LLMAgent Company
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<a href="https://llmagent.vecel.app"><img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://llmagent.vecel.app/)**
 
 - 🔭 I’m currently running on `LLM Agent Framework`.
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Company Strategy`
 
-- 🤔 I’m looking for help with `Indeed Site`
+- 🤔 I’m looking for help with `Our Indeed`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️I need following skills:
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
