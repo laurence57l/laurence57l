@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Soumyajit Behera</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Kevin</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,11 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
+- 🔭 I’m currently running on `LLM Agent Framework`.
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 I’m looking for help with `Indeed Site`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
