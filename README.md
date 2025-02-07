@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://llmagent.vecel.app"><img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /></a>
 
-- 🙋‍♂️ All about me is at **[My Website](https://llmagent.vecel.app/)***
+- 🙋‍♂️ All about me is at **[My Website](https://llmagent.vecel.app/)**
 
 - 🔭 I’m currently running on `LLM Agent Framework`.
 
