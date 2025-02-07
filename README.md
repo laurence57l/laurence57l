@@ -37,7 +37,7 @@ Here are some ideas to get you started: -->
   <img src="https://komarev.com/ghpvc/?username=geek-cheth&style=flat-square&color=00D1FF" alt="Profile Views">
   
   <!-- Animated Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 </div>
 
 <!-- About Me Section -->
