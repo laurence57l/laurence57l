@@ -52,18 +52,6 @@
 </p>
 
 <!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://chethina.vercel.app/raw/discord-id.txt">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:lgrandiduchethina@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@cheth_unknown">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-  </a>
 </p>
 
 <!-- Inspirational Quote -->
