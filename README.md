@@ -21,7 +21,7 @@
 <div align="center">
   
   <!-- Dynamic Header with Typing Effect -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Cheth;Full+Stack+Developer;Tech+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=geek-cheth&style=flat-square&color=00D1FF" alt="Profile Views">
