@@ -55,9 +55,7 @@
 </p>
 
 <!-- Inspirational Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=modern-lilac2" alt="Random Dev Quote"/>
-</div>
+
 
 <!-- Snake Animation -->
 <picture>
