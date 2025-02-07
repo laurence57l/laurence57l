@@ -40,35 +40,6 @@ Here are some ideas to get you started: -->
   <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 </div>
 
-<!-- About Me Section -->
-<h2 align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    About Me
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true"/>
-  
-  <!-- Hacking GIF -->
-  <img align="right" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
-</div>
-
-```javascript
-const cheth = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "C++", "HTML", "CSS"],
-    currentFocus: "Full Stack Development",
-    funFact: "I speak JavaScript fluently, still learning cat language 🐱",
-    challenge: "I am doing the #100DaysOfCode challenge focused on full stack development",
-    status: {
-        learning: true,
-        coding: true,
-        sleeping: false
-    }
-};
-```
 
 <!-- Tech Stack Section -->
 <h2 align="center">🚀 Technology Arsenal</h2>
