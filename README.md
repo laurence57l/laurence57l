@@ -28,46 +28,124 @@ Here are some ideas to get you started: -->
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 
-## 🛠️I need following skills:
+<div align="center">
+  
+  <!-- Dynamic Header with Typing Effect -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&background=0D111700&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Cheth;Full+Stack+Developer;Tech+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=geek-cheth&style=flat-square&color=00D1FF" alt="Profile Views">
+  
+  <!-- Animated Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=200&section=header&text=Developer%20In%20Progress&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</div>
 
-## ❤️ Let's get connected:
-
-<p><a href="https://soumyajit.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
-
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
-## 📊 My GitHub Data:
+<!-- About Me Section -->
+<h2 align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    About Me
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <!-- Streak Stats -->
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=geek-cheth&theme=modern-lilac2&hide_border=true"/>
+  
+  <!-- Hacking GIF -->
+  <img align="right" width="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif"/>
 </div>
+
+```javascript
+const cheth = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Python", "C++", "HTML", "CSS"],
+    currentFocus: "Full Stack Development",
+    funFact: "I speak JavaScript fluently, still learning cat language 🐱",
+    challenge: "I am doing the #100DaysOfCode challenge focused on full stack development",
+    status: {
+        learning: true,
+        coding: true,
+        sleeping: false
+    }
+};
+```
+
+<!-- Tech Stack Section -->
+<h2 align="center">🚀 Technology Arsenal</h2>
+
+<details>
+<summary>Languages</summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,c" />
+</p>
+</details>
+
+<details>
+<summary>Development Tools</summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,webpack,babel" />
+</p>
+</details>
+
+<details>
+<summary>Design Tools</summary>
+<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd" />
+</p>
+</details>
+
+<!-- Contribution Stats -->
+<h2 align="center">📊 My Contribution Graph</h2>
+
+[![Cheth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geek-cheth&theme=modern-lilac2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geek-cheth&show_icons=true&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00FFD1&text_color=ffffff&bg_color=0D1117" alt="Cheth's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geek-cheth&layout=compact&hide_border=true&title_color=00D1FF&text_color=ffffff&bg_color=0D1117" />
+</div>
+
+<!-- Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geek-cheth&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+</p>
+
+<!-- Connect Section -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://chethina.vercel.app/raw/discord-id.txt">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:lgrandiduchethina@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@cheth_unknown">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Inspirational Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=modern-lilac2" alt="Random Dev Quote"/>
+</div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/geek-cheth/geek-cheth/output/github-snake.svg" />
+</picture>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:00FFD1&height=120&section=footer"/>
+
+---
+
