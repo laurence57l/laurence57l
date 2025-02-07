@@ -31,32 +31,6 @@
 </div>
 
 
-<!-- Tech Stack Section -->
-<h2 align="center">🚀 Technology Arsenal</h2>
-
-<details>
-<summary>Languages</summary>
-<br>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,cpp,c" />
-</p>
-</details>
-
-<details>
-<summary>Development Tools</summary>
-<br>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,webpack,babel" />
-</p>
-</details>
-
-<details>
-<summary>Design Tools</summary>
-<br>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd" />
-</p>
-</details>
 
 <!-- Contribution Stats -->
 <h2 align="center">📊 My Contribution Graph</h2>
