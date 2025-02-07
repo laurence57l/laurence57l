@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=geek-cheth&style=flat-square&color=00D1FF" alt="Profile Views">
   
   <!-- Animated Banner -->
-  <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 </div>
 
 
