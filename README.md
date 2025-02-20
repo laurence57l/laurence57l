@@ -1,7 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Kevin</h1>
  <br/>
 
-## 👨🏻‍💻 About Me: Founder of Indeed LLMAgent Company
+## 👨🏻‍💻 About Me: Founder of Typhon Framework
 
 <a href="https://llmagent.vecel.app"><img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /></a>
 
